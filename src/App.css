@@ -1,0 +1,55 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 15vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+#divider {
+  border: solid 1px black;
+  margin: 25% 5px 20% 5px;
+}
+
+img {
+  height: 150%;
+  width: 175%;
+}
+
+/* #opponent {
+  border: dotted 1px black;
+  margin: 5px 50px 50px 0px;
+  height: 250px;
+  width: 70%;
+  top: 900px;
+  left: 280px;
+  position: absolute;
+}
+
+.slots1 > div {
+  border: dotted 1px black;
+  border-radius: 15%;
+  margin: 11px 11px 0px 11px;
+  height: 220px;
+  width: 17%;
+  z-index: 5;
+  position: relative;
+  display: inline-block;
+}
+
+#player {
+  border: dotted 1px black;
+  margin: 5px 50px 0px 0px;
+  height: 250px;
+  width: 70%;
+  top: 150px;
+  left: 280px;
+  position: absolute;
+} */
